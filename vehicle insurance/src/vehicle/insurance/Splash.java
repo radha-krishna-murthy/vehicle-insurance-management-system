@@ -1,5 +1,5 @@
 package vehicle.insurance;
-//this is the 
+//this is the packge
 import javax.swing.*;
 import java.awt.*;
 
